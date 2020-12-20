@@ -14,6 +14,7 @@ total number of words: 422333\
 proportionally: \
 type: DT proportion: 0.08904347990803466\
 type: IN proportion: 0.10409084774336838\
-type: NN proportion: 0.14555812593380105 ```
+type: NN proportion: 0.14555812593380105 
+```
 
 Needs to be given valid Reddit account credentials in subreddit-data.py.
