@@ -1,7 +1,7 @@
 # hl4ai sociolinguistic variation
 
 Code for an assignment on sociolinguistic variation for 11-324: Human Language for AI.\
-Takes Reddit data from the top 50 posts of a given subreddit and uses NLTK to tag words with their types of speech, then provides analysis.\
+Takes Reddit data from the top 50 posts of a given subreddit and uses NLTK to tag words with their types of speech, then provides analysis. \
 
 Syntax:\
 python subreddit-data.py output-file subreddit-name\
